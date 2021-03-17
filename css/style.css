@@ -54,10 +54,10 @@ p{
 
 @media (max-width: 991px) {
     .el{
-        width: 40%;
+        width: 45%;
     }
     .medium{
-        width: 84%;
+        width: 94%;
         margin-top: 20px;
     }
 }
