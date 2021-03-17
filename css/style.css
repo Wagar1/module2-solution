@@ -6,7 +6,7 @@
     text-align: center;
 }
 
-.container{
+.clearfix{
     content: "";
     clear: both;
     display: table;
